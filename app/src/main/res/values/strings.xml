@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Калькулятор для ката</string>
+    <string name="go_to_next_button">Создать таблицу</string>
+    <string name="string_step_view">Шаг оценивания</string>
+    <string name="from_table">Оценки от...</string>
+    <string name="to_table">Оценки до...</string>
+    <string name="step_01">0.1</string>
+    <string name="step_025">0.25</string>
+    <string name="step_05">0.5</string>
+    <string name="step_1">1</string>
+    <string name="from_le">0</string>
+    <string name="to_le">10</string>
+    <string name="result">Результат</string>
+    <string name="count_result">Подсчитать</string>
+    <string name="break_result"> Сбросить </string>
+</resources>
